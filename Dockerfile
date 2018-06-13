@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 LABEL maintainer="aj@garcialagar.es"
 ENV DEBIAN_FRONTEND noninteractive
 
