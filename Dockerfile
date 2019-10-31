@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:buster
 LABEL maintainer="aj@garcialagar.es"
 ENV DEBIAN_FRONTEND noninteractive
 
