@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bullseye
 LABEL maintainer="aj@garcialagar.es"
 ENV DEBIAN_FRONTEND noninteractive
 
