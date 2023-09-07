@@ -1,4 +1,4 @@
-FROM debian:bullseye-slim
+FROM debian:bookworm-slim
 LABEL maintainer="aj@garcialagar.es"
 ENV DEBIAN_FRONTEND noninteractive
 ENV TZ Europe/Madrid
